@@ -6,7 +6,7 @@
 
 ###
 
-<h2 align="left">Leading TechSkills</h2>
+<h3 align="left">Leading TechSkills</h3>
 
 ###
 
