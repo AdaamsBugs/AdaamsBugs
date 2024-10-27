@@ -2,7 +2,7 @@
 
 ###
 
-<h2 align="left">I am a FullStack Developer. I am the founder of 'ScriptedBugs' and 'Adaamstudios'</h2>
+<h2 align="left">FullStack Developer & Founder of 'ScriptedBugs' and 'Adaamstudios'</h2>
 
 ###
 
